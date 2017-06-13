@@ -1,0 +1,17 @@
+commit 18a7d970e4b21f6411821a468b540eb1349730c9
+Author: Usuario <edwar.s98@hotmail.com>
+Date:   Tue Jun 13 10:51:00 2017 -0500
+
+    Se agrego un titulo al parrafo
+
+commit 597a849e422612d31c485b3a2186c1a2b1a41ef2
+Author: Usuario <edwar.s98@hotmail.com>
+Date:   Tue Jun 13 10:49:16 2017 -0500
+
+    Agregamos parrafor a la pagina
+
+commit 332af0c7412802c33c2a9095cc933b63281e5506
+Author: Usuario <edwar.s98@hotmail.com>
+Date:   Tue Jun 13 10:45:31 2017 -0500
+
+    Iniciamos
